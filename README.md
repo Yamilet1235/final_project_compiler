@@ -50,3 +50,10 @@ Ese resultado significa que el proyecto base **compila y está listo para usar**
 - No agregar librerías externas.
 - No modificar los tests para ocultar fallos.
 - Implementar la solución dentro de `src/`.
+
+- ## Evidencia de prueba
+- Todas las pruebas fueron ejecutadas correctamente después de implementar soporte para WHERE.
+
+- https://drive.google.com/drive/folders/1VhNsl4eqrfHOpHMeNaoIra1xumc1yHIa?usp=sharing
+
+- 

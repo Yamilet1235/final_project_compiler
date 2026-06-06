@@ -54,6 +54,6 @@ Ese resultado significa que el proyecto base **compila y está listo para usar**
 - ## Evidencia de prueba
 - Todas las pruebas fueron ejecutadas correctamente después de implementar soporte para WHERE.
 
-- https://drive.google.com/drive/folders/1VhNsl4eqrfHOpHMeNaoIra1xumc1yHIa?usp=sharing
+- <img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/c29dbc86-a71d-4f4a-aa84-ff65210c71ff" />
 
 - 
